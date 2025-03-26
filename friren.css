@@ -1,0 +1,226 @@
+*{
+padding:0;
+margin:0;
+font-family:arial;
+}
+
+body{
+  background-color:black;
+
+
+}
+body::-webkit-scrollbar{
+display:none;
+}
+
+
+
+.slides{
+background-image:linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),url('https://4kwallpapers.com/images/wallpapers/frieren-ultrawide-3440x1440-15153.jpg');
+background-size:cover;
+
+height:100vh;
+
+}
+#luffybtn{
+      border:1px white solid;
+      color:white;
+background:transparent;
+   
+      background-color:#F47521;
+      color:white;
+      height:35px;
+      width:200px;
+      margin-top:16px;
+      font-size:17px;
+      border:0px white solid;
+    border-radius:5px;
+   padding:5px;
+  margin-right:20px;
+ margin-top:50px;
+ margin-left:100px;
+display:inline-block;
+}
+#luffybtn:hover{
+background-color:white;
+       color:#F47521;
+       width:230px;
+transition-duration:0.5s;
+       transition-timing-function:ease-in;
+}
+.content h1{
+color:white;
+padding-top:100px;
+padding-left:100px;
+display:inline-block;
+}
+
+a{
+text-decoration:none;
+color:white;
+padding-top:20px;
+padding-left:100px;
+display:inline-block;
+font-size:13px;
+}
+
+p{
+color:white;
+padding-top:50px;
+margin-left:100px;
+display:inline-block;
+width:500px;
+display:inline-block;
+font-size:15px;
+}
+
+
+#p1{
+padding-top:30px;
+}
+#p2{
+padding-top:30px;
+}
+
+
+
+.video-container {
+    background: black;
+    padding: 10px;
+   
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+video {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 8px;
+margin-left:130px;
+border:none;
+border:1px rgba(255,255,255,0.5) solid;
+}
+
+
+.video1{
+    width: 100%;
+    max-width: 350px;
+    border-radius: 8px;
+margin-left:20px;
+border:1px rgba(255,255,255,0.5) solid;
+}
+
+.video2{
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+margin-left:30px;
+border:1px rgba(255,255,255,0.5) solid;
+}
+
+.video21{
+    width: 100%;
+    max-width: 350px;
+    border-radius: 8px;
+margin-left:130px;
+border:none;
+margin-top:30px;
+border:1px rgba(255,255,255,0.5) solid;
+}
+.video22{
+ width: 100%;
+    max-width: 350px;
+    border-radius: 8px;
+margin-left:20px;
+margin-top:50px;
+border:1px rgba(255,255,255,0.5) solid;
+}
+.video3{
+width: 100%;
+    max-width: 350px;
+    border-radius: 8px;
+margin-left:20px;
+margin-top:30px;
+border:1px rgba(255,255,255,0.5) solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#a1{
+
+color:white;
+font-size:14px;
+padding-top:40px;
+}
+
+ .dropdown {
+            position: relative;
+            width: 100px;
+border:none;
+        }
+
+        select {
+            width: 400px;
+            padding: 12px;
+            font-size: 20px;
+            border-radius: 8px;
+           margin-left:120px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            appearance: none; 
+color:white;
+background-color:black;
+border:none;
+           margin-bottom:30px; 
+           padding-right: 0px;
+        }
+
+ select:hover{
+
+          
+        }
+
+       
+
+        
+
+                .dropdown::after {
+           border:none; 
+            position: absolute;
+            top: 50%;
+            right: 15px;
+            transform: translateY(-50%);
+            pointer-events: none;
+            font-size: 14px;
+            color: white;
+           background:transparent;
+        }
+
+       
+        #selectedAnime {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            color: white;
+border:none;
+        }
+hr {
+    width: 70%; 
+    margin: 20px auto; 
+    border: none;
+border-radius:20px;
+    height: 2px;
+    background-color:rgba(255,255,255,0.2);
+}

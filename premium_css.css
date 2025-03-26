@@ -1,0 +1,316 @@
+*{
+padding:0px;
+margin:0px;
+}
+
+body{
+background-image:linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),url("https://wallpapercave.com/uwp/uwp4502453.png");
+   background-size:cover;
+   background-attachment:fixed;
+   justify-content:center;
+
+   
+}
+body::-webkit-scrollbar{
+display:none;
+}
+
+
+#main{
+ margin-left:60px;
+margin-top:100px;
+}
+ 
+
+ #hh1{
+
+font-family:arial;
+
+color:white;
+}
+
+#hh2{
+
+font-family:arial;
+color:white;
+
+
+}
+
+#button1{
+      background-color:#F47521;
+      color:white;
+      height:35px;
+      width:300px;
+      margin-top:60px;
+      font-size:17px;
+      border:0px white solid;
+    border-radius:10px;
+   padding:5px;
+  margin-right:20px;
+
+ 
+}
+
+#button1:hover{
+       background-color:white;
+       color:#F47521;
+       transition-timing-function:ease-in;
+       
+       
+}
+
+
+
+pre{
+color:white;
+
+font-family:arial;
+}
+
+
+#a1{
+color:white;
+font-size:13px;
+font-family:arial;
+text-decoration:none;
+}
+
+#cont{
+display:grid;
+grid-template-columns:repeat(2,1fr);
+gap:20px;
+justify-content:center;
+}
+
+.pre1{
+ height:450px;
+width:410px;
+background:transperent;
+backdrop-filter:blur(20px);
+border-radius:10px;
+margin-top:40px;
+margin-left:200px;
+display:inline-block;
+border:1px white solid;
+}
+
+.pre1 h1{
+text-align:center;
+font-family:arial;
+color:white;
+padding-top:30px;
+}
+
+.pre1 h2{
+text-align:center;
+font-family:arial;
+color:white;
+padding-top:20px;
+}
+
+#button2{
+      background:transparent;
+      color:#F47521;
+      height:35px;
+      width:300px;
+      margin-top:16px;
+      font-size:17px;
+      border:0px white solid;
+    border-radius:10px;
+   padding:5px;
+  margin-right:20px;
+margin-left:12%;
+ border:1px #F47521 solid;
+}
+#button2:hover{
+       color:white;
+    
+    
+       transition-timing-function:ease-in;
+       
+       
+}
+
+
+#a2{
+
+text-decoration:none;
+color:white;
+font-family:arial;
+margin-left:36%;
+}
+
+#p1{
+ color:white;
+font-family:arial;
+text-align:center;
+font-size:14px;
+}
+#p2{
+ color:#F47521;
+font-family:arial;
+margin-left:15px;
+font-size:14px;
+}
+#p3{
+color:#F47521;
+font-family:arial;
+margin-left:15px;
+font-size:14px;
+}
+
+#p4{
+text-align:center;
+color:rgba(255,255,255,0.8);
+font-size:14px;
+font-family:arial;
+}
+
+
+.pre2{
+ height:450px;
+width:410px;
+background:transperent;
+backdrop-filter:blur(20px);
+border-radius:10px;
+margin-top:40px;
+margin-left:50px;
+display:inline-block;
+border:1px white solid;
+}
+
+
+
+#head1{
+text-align:center;
+font-family:arial;
+color:white;
+padding-top:30px;
+}
+
+
+#head2{
+text-align:center;
+font-family:arial;
+color:white;
+padding-top:20px;
+}
+
+#button3{
+      background:transparent;
+      color:#F47521;
+      height:35px;
+      width:300px;
+      margin-top:16px;
+      font-size:17px;
+      border:0px white solid;
+    border-radius:10px;
+   padding:5px;
+  margin-right:20px;
+margin-left:12%;
+ border:1px #F47521 solid;
+}
+#button3:hover{
+       color:white;
+    
+       transition-timing-function:ease-in;
+       
+       
+}
+
+
+#a3{
+
+text-decoration:none;
+color:white;
+font-family:arial;
+margin-left:37%;
+
+}
+
+#p11{
+ color:white;
+font-family:arial;
+text-align:center;
+margin-left:15px;
+font-size:14px;
+}
+#p12{
+ color:#F47521;
+font-family:arial;
+margin-left:15px;
+font-size:14px;
+}
+#p13{
+color:#F47521;
+font-family:arial;
+margin-left:15px;
+font-size:14px;
+}
+
+#p14{
+color:#F47521;
+font-family:arial;
+margin-left:15px;
+font-size:14px;
+}
+
+#p15{
+color:#F47521;
+font-family:arial;
+margin-left:15px;
+font-size:14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
